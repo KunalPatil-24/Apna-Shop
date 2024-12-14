@@ -1,5 +1,5 @@
 
-# Apni Dukaan
+# Apni Shop
 
 This is a full-fledged E-commerce website built using the MERN (MongoDB, Express.js, React, and Node.js) stack. The purpose of this project is to create an efficient and user-friendly web application that enables customers to browse, search, and purchase products. It also provides sellers with the ability to list their products, manage inventory, and process orders. The application integrates both frontend and backend features into a cohesive platform.
 
@@ -72,8 +72,8 @@ Ensure the following dependencies and tools are installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Apni-Dukaan
-   cd Apni-Dukaan
+   git clone https://github.com/<your-username>/Apni-Shop
+   cd Apni-Shop
    ```
 
 2. Install dependencies for both frontend and backend:
