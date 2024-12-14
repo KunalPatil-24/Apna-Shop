@@ -161,4 +161,4 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 
-Feel free to reach out via LinkedIn: [Rajesh Jha](https://www.linkedin.com/in/rajesh-jha-0aa47a205/).
+Feel free to reach out via Mail: [Kunal Patil](mailto:kunalpatil24.official@gmail.com).
